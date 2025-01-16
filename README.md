@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanath
 - 👀 I’m interested in Security, CTF, Bug Hunting, Web Design
-- 🌱 I’m currently learning BCA in Cyber Security
+- 🌱 Fulltime Student 
 - 💞️ I’m looking to collaborate on any Security Project weather big or small roles
-- 📫 Reach me on twitter @San0th
+- 📫 Reach me on twitter @gingerspiritt
